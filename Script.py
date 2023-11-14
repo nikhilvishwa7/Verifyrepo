@@ -8,14 +8,14 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b> 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ ʟᴏᴠᴇ❤: <a href=https://t.me/Vis10n7>❤</a>
-✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/i24x7Update>Movies</a>
-✯ ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/Vis10n7>亗 Vision</a>
-✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
-✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 𝟹
-✯ ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏᴅʙ
-✯ sᴇʀᴠᴇʀ: ᴘʀᴠᴛ
-✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v2.0.1 [ ʙᴇᴛᴀ ]</b>"""
+ ʟᴏᴠᴇ❤: <a href=https://t.me/Vis10n7>❤</a>
+ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/i24x7Update>Movies</a>
+ ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/Vis10n7>亗 Vision</a>
+ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
+ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 𝟹
+ ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏᴅʙ
+ sᴇʀᴠᴇʀ: ᴘʀᴠᴛ
+ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v2.0.1 [ ʙᴇᴛᴀ ]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- ɢᴀᴀɴᴅ ᴍᴀʀᴀᴏ ʙsᴅᴋ. 
