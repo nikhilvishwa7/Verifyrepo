@@ -7,7 +7,7 @@ class script(object):
 
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
-    ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+    ABOUT_TXT = """<b> 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ ʟᴏᴠᴇ❤: <a href=https://t.me/Vis10n7>❤</a>
 ✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/i24x7Update>Movies</a>
 ✯ ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/Vis10n7>亗 Vision</a>
