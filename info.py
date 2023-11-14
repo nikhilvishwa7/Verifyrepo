@@ -75,10 +75,10 @@ TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Elsa")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://telegrammange:sawan09@cluster0.upfv2ff.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "chuda")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
-MONGO_URL = os.environ.get('MONGO_URL', "")
+MONGO_URL = os.environ.get('MONGO_URL', "mongodb+srv://telegrammange:sawan09@cluster0.upfv2ff.mongodb.net/?retryWrites=true&w=majority")
 
 #Downloader
 DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
@@ -87,13 +87,13 @@ DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 PORT = os.environ.get("PORT", "8080")
 MAX_BTN = int(environ.get('MAX_BTN', "7"))
-S_GROUP = environ.get('S_GROUP',"https://t.me/NewMovie1stOnTG")
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/i24x7Update")
+S_GROUP = environ.get('S_GROUP',"https://t.me/+I8GucSZF0dxkZGM1")
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/NewReleaseMvie")
 FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+F805GdOXO1JlOWU9")
-MSG_ALRT = environ.get('MSG_ALRT', 'Chal Bhosdika')
+MSG_ALRT = environ.get('MSG_ALRT', 'Nikhil is God')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/NewMovie1stOnTG')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+I8GucSZF0dxkZGM1')
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
@@ -123,6 +123,6 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 #Verify Features
 VERIFY = bool(environ.get('VERIFY', True))
-HOW_TO_VERIFY = environ.get("HOW_TO_VERIFY", "https://t.me/VisionBackup/331")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tinyfy.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '645f3cb39f7fd504c3de8e6adb71722fe5c3d8d0')
+HOW_TO_VERIFY = environ.get("HOW_TO_VERIFY", "https://t.me/howtoopenlinktelegram/78")
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'paisakamalo.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '12bac412cf2ea6d42982d0b6b166c2a000aef3ed')
