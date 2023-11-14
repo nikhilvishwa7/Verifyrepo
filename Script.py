@@ -8,7 +8,7 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b> 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
- ʟᴏᴠᴇ❤: <a href=https://t.me/Vis10n7>❤</a>
+ ʟᴏᴠᴇ: <a href=https://t.me/Vis10n7></a>
  ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/i24x7Update>Movies</a>
  ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/Vis10n7>亗 Vision</a>
  ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
@@ -127,7 +127,7 @@ Translate text to speech
     TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
 Do as you wish with telegra.ph module!
 </b>USAGE:</b>
-✒️ /telegraph - Send me Picture or Vide Under (5MB)
+✒ /telegraph - Send me Picture or Vide Under (5MB)
 <b>NOTE:</b>
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
@@ -139,7 +139,7 @@ Do as you wish with telegra.ph module!
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
 <code>/covid 𝖨𝗇𝖽𝗂𝖺</code>
 
-⚠️ Here is a bug. We will fix soon"""
+⚠ Here is a bug. We will fix soon"""
 
     ABOOK_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖠𝗎𝖽𝗂𝗈𝖻𝗈𝗈𝗄
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚟𝚎𝚛𝚝 𝚊 𝙿𝙳𝙵 𝚏𝚒𝚕𝚎 𝚝𝚘 𝚊 𝚊𝚞𝚍𝚒𝚘 𝚏𝚒𝚕𝚎 𝚠𝚒𝚝𝚑 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 ✯
@@ -156,7 +156,7 @@ Helps you to know your ping 🚶🏼‍♂️
 
 • /ping - <b>To get your ping.</b>
 
-<b>🛠️Usage🛠️ :</b>
+<b>🛠Usage🛠 :</b>
 • This commands can be used in pm and groups
 • This commands can be used buy everyone in the groups and bots pm
 • Share us for more features"""
@@ -165,7 +165,7 @@ Helps you to know your ping 🚶🏼‍♂️
 • 𝐔𝐒𝐀𝐆𝐄
 To Get Sticker ID
  
-  ⭕ 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
+   𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
  
 ◉ Reply To Any Sticker [/stickerid]"""
 
@@ -200,7 +200,7 @@ Note:- <b>Give a user details</b>
 
     FUN_TXT ="""<b>Gᴀᴍᴇs</b> 
     
-<b>⚡ 𝙹𝚄𝚂𝚃 𝚂𝙾𝙼𝙴 𝙺𝙸𝙽𝙳 𝙾𝙵 𝙵𝚄𝙽 𝚃𝙷𝙸𝙽𝙶'𝚂 ⚡</b>
+<b> 𝙹𝚄𝚂𝚃 𝚂𝙾𝙼𝙴 𝙺𝙸𝙽𝙳 𝙾𝙵 𝙵𝚄𝙽 𝚃𝙷𝙸𝙽𝙶'𝚂 </b>
  
 𝟣. /dice - 𝚁𝙾𝙻𝙴 𝚃𝙷𝙴 𝙳𝙸𝙲𝙴 
 𝟤. /Throw 𝗈𝗋 /Dart - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙳𝙰𝚁𝚃 
