@@ -7,15 +7,14 @@ class script(object):
 
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
-    ABOUT_TXT = """<b> 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
- ʟᴏᴠᴇ: <a href=https://t.me/Vis10n7></a>
- ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/i24x7Update>Movies</a>
- ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/Vis10n7>亗 Vision</a>
- ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
- ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 
- ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏᴅʙ
- sᴇʀᴠᴇʀ: ᴘʀᴠᴛ
- ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v2.0.1 [ ʙᴇᴛᴀ ]</b>"""
+    ABOUT_TXT = """<b>
+ 🤖 ᴍʏ ɴᴀᴍᴇ : {}
+ 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/J_shree_ram'>ɴᴏᴛʜɪɴɢ ʙʀᴏ</a>
+ 📚 ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
+ 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
+ ♻️ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
+ 📡 ʜᴏsᴛᴇᴅ ᴏɴ  : <a href='https://www.heroku.com/'>Heroku</a>
+ 🥶 ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ3.0 [sᴛᴀʙʟᴇ​]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- ɢᴀᴀɴᴅ ᴍᴀʀᴀᴏ ʙsᴅᴋ. 
